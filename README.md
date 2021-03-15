@@ -1,16 +1,17 @@
-### Hi there 👋
+# 👋 Nice to e-meet you, I'm Bo!
+I'm an aspiring Dev/DevOps engineer studying **Cognitive and Computer Science** at the **University of Pennsylvania**. I'm currently working full-time at a private practice specializing in Ophthalmology while attending classes full-time as a junior. 
 
-<!--
-**bo-ku/bo-ku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 My mission 
+* To integrate my knowledge in the healthcare sector to the front-end of the tech industry
+* To become more well-versed in many different programming languages
+* To apply my diverse background to all the work I do
 
-Here are some ideas to get you started:
+## 👀 My interests
+* Cooking new cuisines
+* Biking along the Schuylkill River
+* Learning more about my job in ophthalmology 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 My socials 
+* [LinkedIn](https://www.linkedin.com/in/bku/)
+* [Facebook](https://www.facebook.com/bohyunku/)
+* [Instagram](https://www.instagram.com/localkoreangirl/)
