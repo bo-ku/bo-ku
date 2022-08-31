@@ -1,5 +1,5 @@
 # 👋 Nice to e-meet you, I'm Bo!
-I'm an aspiring Dev/DevOps engineer studying **Cognitive and Computer Science** at the **University of Pennsylvania**. I'm currently working full-time at a private practice specializing in Ophthalmology while attending classes full-time as a junior. 
+I'm an aspiring Dev/DevOps engineer who studied **Cognitive Science in Computation** at the **University of Pennsylvania**. 
 
 ## 🌱 My mission 
 * To integrate my knowledge in the healthcare sector to the front-end of the tech industry
@@ -9,9 +9,7 @@ I'm an aspiring Dev/DevOps engineer studying **Cognitive and Computer Science** 
 ## 👀 My interests
 * Cooking new cuisines
 * Biking along the Schuylkill River
-* Learning more about my job in ophthalmology 
+* Clothes and fashion in general
 
 ## 📫 My socials 
 * [LinkedIn](https://www.linkedin.com/in/bku/)
-* [Facebook](https://www.facebook.com/bohyunku/)
-* [Instagram](https://www.instagram.com/localkoreangirl/)
