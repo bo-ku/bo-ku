@@ -1,5 +1,5 @@
 # 👋 Nice to e-meet you, I'm Bo!
-I'm an aspiring Dev/DevOps engineer who studied **Cognitive Science in Computation** at the **University of Pennsylvania**. 
+I'm an aspiring Data Analyst who studied **Cognitive Science in Computation** at the **University of Pennsylvania**. 
 
 ## 🌱 My mission 
 * To integrate my knowledge in the healthcare sector to the front-end of the tech industry
